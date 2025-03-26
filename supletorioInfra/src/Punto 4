@@ -6,11 +6,9 @@ Respuesta b):
     c) ConcurrentModificationException
 
 Respuesta c):
-    No compila, falta el static en el main
     a) [4, 3, 2, 1]
 
 Respuesta d):
-    No compila, no tiene main
     a) 5 30 10
 
 Respuesta e):
